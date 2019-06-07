@@ -1,0 +1,59 @@
+.header-logo {
+	margin-top: 1rem;
+	margin-left: 4em;
+}
+@font-face {
+	font-family: Montserrat Hairline;
+	src: url(./montserrat-hairline_[allfont.net].ttf);
+}
+@font-face {
+	font-family: Montserrat;
+	src: url(./montserrat_[allfont.net].ttf);
+}
+.buttons {
+	color: whitesmoke;
+	font-size: 25.47px;
+	font-family: Montserrat Hairline;
+	border: none;
+	text-align: center;
+	text-decoration: none;
+	cursor: pointer;
+	padding: 6px 50px;
+	margin-top: 2rem;
+	margin-right: 5rem;
+	margin-left: -4rem;
+	float: right;
+	background-color: #945aa1;
+}
+
+.button2 {
+	background-color: #2cb7b2;
+}
+.box {
+	background-color: #2cb7b2;
+	width: 63rem;
+	border: none;
+	padding: 50px;
+	margin-right: 1rem;
+	height: 20rem;
+	margin-left: -1rem;
+	margin-top: 0.5rem;
+}
+.image-move {
+	margin-left: 6rem;
+}
+.text {
+	float: right;
+	margin-right: 7rem;
+	margin-top: 4rem;
+	font-size: 18.47px;
+	color: #575757;
+	font-family: Montserrat Hairline;
+	font-weight: 600;
+}
+.title {
+	font-family: Montserrat Hairline;
+	color: #2cb7b2;
+	font-size: 30.47px;
+	font-weight: 600;
+}
